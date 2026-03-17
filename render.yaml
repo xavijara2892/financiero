@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: xavier-finance-pro
+    name: xavier-finance-pro-lite
     env: python
     plan: free
     buildCommand: pip install -r requirements.txt
